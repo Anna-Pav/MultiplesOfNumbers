@@ -1,5 +1,5 @@
 # Title
-Multiples
+Multiples of Numbers
 
 # Description
 The program should iterate and return three results. First result is the multiples of A until X, second result is the multiples of A + 1 until 2X 
