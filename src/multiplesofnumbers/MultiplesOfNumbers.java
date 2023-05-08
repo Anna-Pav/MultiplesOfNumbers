@@ -20,7 +20,7 @@ public class MultiplesOfNumbers {
         //Create an instance of the class Calculate
         Calculate calculate = new Calculate();
         calculate.calculateMultiples(2,10);
-        system.out.println("this project is integrated with Jenkins");
+        System.out.println("this project is integrated with Jenkins");
     }
 
 }
